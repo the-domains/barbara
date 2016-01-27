@@ -1,6 +1,6 @@
 name: Barbara
 favicon: null
-layout_spectrum: 0.26993866357952356
+layout_spectrum: 0
 typography_spectrum: 0.80985
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#192a2c'
     - '#295c61'
     - '#52787c'
-  brandStrength: 0.7239342853426933
+  brandStrength: 0.5
   lightness: 0.4006043935660273
   saturation: 0.44328294484876096
   rhythmicContrast: 0.9446106811519712
