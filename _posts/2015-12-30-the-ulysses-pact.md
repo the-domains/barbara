@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-27T10:29:47.544Z'
+datePublished: '2016-01-27T10:29:47.548Z'
 dateModified: '2016-01-27T10:29:17.104Z'
 title: "HI, I'M BARBARA"
 author: []
