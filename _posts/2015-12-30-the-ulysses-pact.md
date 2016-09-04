@@ -1,36 +1,37 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2016-01-27T10:29:47.733Z'
-dateModified: '2016-01-27T10:29:17.104Z'
-title: "HI, I'M BARBARA"
-author: []
+datePublished: '2016-09-01T09:59:01.888Z'
 sourcePath: _posts/2015-12-30-the-ulysses-pact.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-09-01T09:59:01.460Z'
+title: >-
+  I have been working as a web designer and front end developer since 2007. The
+  best part of it, for me, is solving problems. I love puzzles and twisted
+  plots.
+publisher: {}
+description: >-
+  I love learning new technologies and making the best user interfaces to
+  provide the user a pleasant experience as they get what they need.
+inLanguage: null
+inNav: false
+via: {}
+starred: false
 url: the-ulysses-pact/index.html
 _type: Article
 
 ---
-# HI, I'M BARBARA
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f18e8551a773fcf5567b8ee88aa5629bf964c449.jpg)
 
-I have been working as a web designer and front end developer since 2007\. The best part of it, for me, is solving problems. I love puzzles and twisted plots.
+# I have been working as a web designer and front end developer since 2007\. The best part of it, for me, is solving problems. I love puzzles and twisted plots.
 
 I love learning new technologies and making the best user interfaces to provide the user a pleasant experience as they get what they need.
 
-If you work with me you'll get an user interface designer, an interaction designer and a front-end developer.
+In my free time I listen to podcasts, read, watch movies and TV shows. I live in Porto, Portugal.
 
-In my free time I listen to podcasts, read, watch movies and TV shows. I live in Porto, Portugal. 
+If you work with me you'll get an user interface designer, an interaction designer and a front-end developer.
 
 # Work
 
