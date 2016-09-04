@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Barbara]]></title>
-        <description><![CDATA[Barbara]]></description>
+        <title><![CDATA[HI, I'M BARBARA]]></title>
+        <description><![CDATA[HI, I'M BARBARA]]></description>
         <link>https://thegrid.ai/barbara/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 10:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2016 09:59:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/barbara/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[HI, I'M BARBARA]]></title>
-            <description><![CDATA[<article><h1>HI, I'M BARBARA</h1><p>I have been working as a web designer and front end developer since 2007. The best part of it, for me, is solving problems. I love puzzles and twisted plots.</p></article>]]></description>
+            <title><![CDATA[I have been working as a web designer and front end developer since 2007. The best part of it, for me, is solving problems. I love puzzles and twisted plots.]]></title>
+            <description><![CDATA[<article><h1>I have been working as a web designer and front end developer since 2007. The best part of it, for me, is solving problems. I love puzzles and twisted plots.</h1><p>I love learning new technologies and making the best user interfaces to provide the user a pleasant experience as they get what they need.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f18e8551a773fcf5567b8ee88aa5629bf964c449.jpg"></article>]]></description>
             <link>https://thegrid.ai/barbara/the-ulysses-pact/index.html</link>
             <guid isPermaLink="false">a39a81a5-1252-4c60-8593-f27c8736c876</guid>
-            <pubDate>Wed, 27 Jan 2016 10:29:47 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2016 09:59:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
